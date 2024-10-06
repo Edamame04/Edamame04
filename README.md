@@ -1,6 +1,6 @@
 ## Hi there im Nik 👋
 
-- 🔭 I’m currently working at Lufthansa
+- 🔭 I’m currently working as a dual student at Lufthansa
 - 🌱 I’m currently learning C
 - ❤️ What i love: Traveling!
 <!--
