@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there im Nik 👋
 
+- 🔭 I’m currently working at Lufthansa
+- 🌱 I’m currently learning C
+- ❤️ What i love: Traveling!
 <!--
 **Edamame04/Edamame04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
